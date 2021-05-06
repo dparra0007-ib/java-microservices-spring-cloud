@@ -2,8 +2,8 @@
 
 ![image info](./application_design.png)
 
-- Create the toll rate service
-- Create an environment management with a centralized service
-
-
-java -jar JarExample.jar "arg 1" arg2@
+- Refactor appliying "Clean Code" practices,
+- Complete missing unit and integration tests,
+- Implement any missing design pattern for microservices architecture style,
+- Re-structure the solution for better maintenability,
+- Migrate the worst performant service to Quarkus.
