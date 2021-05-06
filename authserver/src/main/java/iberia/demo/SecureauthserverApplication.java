@@ -1,4 +1,4 @@
-package pluralsight.demo;
+package iberia.demo;
 
 import java.security.Principal;
 
@@ -13,10 +13,10 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableAuthorizationServer
 @EnableResourceServer
 @RestController
-public class PluralsightSpringcloudM4SecureauthserverApplication {
+public class SecureauthserverApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PluralsightSpringcloudM4SecureauthserverApplication.class, args);
+		SpringApplication.run(SecureauthserverApplication.class, args);
 	}
 	
 	@RequestMapping("/user")
