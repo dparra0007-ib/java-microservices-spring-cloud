@@ -1,4 +1,4 @@
-package pluralsight.demo;
+package iberia.demo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
@@ -14,10 +14,10 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 @RestController
-public class PluralsightSpringcloudM5CustomerserviceApplication {
+public class CustomerserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PluralsightSpringcloudM5CustomerserviceApplication.class, args);
+		SpringApplication.run(CustomerserviceApplication.class, args);
 	}
 	
 	@Bean

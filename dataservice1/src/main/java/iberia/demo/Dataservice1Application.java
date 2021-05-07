@@ -1,4 +1,4 @@
-package pluralsight.demo;
+package iberia.demo;
 
 import java.util.Hashtable;
 import java.util.Random;
@@ -13,10 +13,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-public class PluralsightSpringcloudM5Dataservice1Application  {
+public class Dataservice1Application  {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PluralsightSpringcloudM5Dataservice1Application.class, args);
+		SpringApplication.run(Dataservice1Application.class, args);
 	}
 	
 	@RequestMapping(value="/customer/{cid}/contactdetails", method=RequestMethod.GET)

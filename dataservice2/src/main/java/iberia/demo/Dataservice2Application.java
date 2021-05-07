@@ -1,4 +1,4 @@
-package pluralsight.demo;
+package iberia.demo;
 
 import java.util.Hashtable;
 import java.util.Random;
@@ -16,10 +16,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-public class PluralsightSpringcloudM5Dataservice2Application {
+public class Dataservice2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PluralsightSpringcloudM5Dataservice2Application.class, args);
+		SpringApplication.run(Dataservice2Application.class, args);
 	}
 	
 	@Autowired
