@@ -1,4 +1,4 @@
-package pluralsight.demo;
+package iberia.demo;
 
 import org.springframework.cloud.sleuth.Sampler;
 import org.springframework.cloud.sleuth.Span;
