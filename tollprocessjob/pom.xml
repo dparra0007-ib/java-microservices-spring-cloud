@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>pluralsight.demo</groupId>
-	<artifactId>pluralsight-springcloud-m3-taskintake</artifactId>
+	<groupId>iberia.demo</groupId>
+	<artifactId>taskintake</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>pluralsight-springcloud-m3-taskintake</name>
+	<name>taskintake</name>
 	<description>testing out spring cloud task intake</description>
 
 	<parent>
