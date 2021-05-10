@@ -2,8 +2,10 @@
 
 ![image info](./application_design.png)
 
-- Refactor appliying "Clean Code" practices,
-- Complete missing unit and integration tests,
-- Implement any missing design pattern for microservices architecture style,
-- Re-structure the solution for better maintenability,
-- Migrate the worst performant service to Quarkus.
+In the scope of SRE for this application:
+
+- Define SLOs for this system,
+- Define and implement monitoring and alerting for services using cloud native,
+- Define and implement monitoring and alerting for services using AWS services,
+- Justify decisions for previous task,
+- Explain an integration model for a ticketing system.
